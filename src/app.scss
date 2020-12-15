@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1{
+  color: rgb(255, 33, 41);
+  text-align: center;
+}
+p{
+  color: rgb(255, 33, 41);
+  text-align: center;
+}
+button{
+  background-color:  rgb(255, 33, 41);
+  border-radius: 10px;
+  width: 150px;
+  display: block;
+  margin: 0 auto;
+  vertical-align: middle;
+}

@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: #ff2129;
+  text-align: center;
+}
+
+p {
+  color: #ff2129;
+  text-align: center;
+}
+
+button {
+  background-color: #ff2129;
+  border-radius: 10px;
+  width: 150px;
+  display: block;
+  margin: 0 auto;
+  vertical-align: middle;
+}
+
